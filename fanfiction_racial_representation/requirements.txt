@@ -1,0 +1,8 @@
+spacy==2.1.0
+neuralcoref
+stanza
+nltk
+graphviz
+beautifulsoup4
+gensim
+whatlies
